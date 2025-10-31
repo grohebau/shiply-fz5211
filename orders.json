@@ -1,0 +1,47 @@
+{
+  "S59763": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jens Plückhahn, Warsbergstraße 3, 99092 Erfurt, Deutschland",
+    "receiver": "Ralf Proske, Im Heselen 39a, 49504 Lotte, Deutschland",
+    "price": "3.000 €",
+    "description": "Hersteller: Piaggio<br>Typ: Vespa GTS 300<br>Fahrgestelnummer: ZAPMA330000008050<br>Erstzulassung: 23/07/2014<br>KM laut Vorbesitzer: 5902 km<br>Leistung: 16 kW<br>Hubraum: 278 cm³<br>Farbe: Rot<br><br>Das Roller ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Ralf Proske<br>Im Heselen 39a<br>49504 Lotte<br>Deutschland<br>Telefon: +49 176 73508204",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "31-10-2025",
+    "deliveryDate": "05-11-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
